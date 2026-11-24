@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-24 15:45",
+  "atualizado": "2026-11-24 15:48",
   "periodo": "ultimos_7_dias",
   "campanhas": [
     {
@@ -7,6 +7,1352 @@
       "gasto": 295.77,
       "conversoes": 1.99,
       "cpa": 148.63
+    }
+  ],
+  "anuncios": [
+    {
+      "campanha": "Geração de demanda – 2026-10-08",
+      "anuncio": "Anúncio 1",
+      "gasto": 167.52,
+      "conversoes": 0.99,
+      "cpa": 169.21
+    },
+    {
+      "campanha": "Geração de demanda – 2026-10-08",
+      "anuncio": "ads-barrado-comum-vs-embutido",
+      "gasto": 79.35,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "Geração de demanda – 2026-10-08",
+      "anuncio": "ads-enrrugado-embutido-shorts",
+      "gasto": 48.9,
+      "conversoes": 1,
+      "cpa": 48.9
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 581940186628",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 581988882873",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 581990951958",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 581990951961",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 581990951964",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[VIDEO] [YOUTUBE] [IN-FEED]  [PESQUISA] FEV 2020 - [LIVE] COMO VENDER PANOS DE PRATO?",
+      "anuncio": "AD1 - [Live] COMO VENDER PANOS DE PRATO?",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[VIDEO] [YOUTUBE] [IN-FEED]  [PESQUISA] FEV 2020 - [LIVE] COMO VENDER PANOS DE PRATO?",
+      "anuncio": "AD1 - [Live] Cortando e Costurando a Bainha do Alvejado",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[VIDEO] [YOUTUBE] [IN-FEED]  [PESQUISA] FEV 2020 - [LIVE] COMO VENDER PANOS DE PRATO?",
+      "anuncio": "AD1 - [Live] Corte o Alvejado Fácil",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[VIDEO] [YOUTUBE] [IN-FEED]  [PESQUISA] FEV 2020 - [LIVE] COMO VENDER PANOS DE PRATO?",
+      "anuncio": "AD1 - [Live] Tudo sobre Falso Passa Fitas",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LOJA] [FRIO] campanha 01",
+      "anuncio": "anuncio 582087839475",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582103057181",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582107231963",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582107231966",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582107231969",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582110124947",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582110124950",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582110124953",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[VIDEO] [YOUTUBE] [IN-FEED]  [PESQUISA] FEV 2020 - [LIVE] COMO VENDER PANOS DE PRATO?",
+      "anuncio": "AD1 - [Live] Panos de Prato - Armadilhas dos Acabamentos",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[VIDEO] [YOUTUBE] [IN-FEED] [RELACIONADOS] FEV 2020",
+      "anuncio": "AD03 - Avental de Conjunto de Cozinha - Passo a Passo",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[VIDEO] [YOUTUBE] [IN-FEED] [RELACIONADOS] FEV 2020",
+      "anuncio": "AD02 - Conjunto de Cozinha - Luva de Forno",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[VIDEO] [YOUTUBE] [IN-FEED] [RELACIONADOS] FEV 2020",
+      "anuncio": "AD04 - Conjunto de Cozinha - JOGOS AMERICANOS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[VIDEO] [YOUTUBE] [IN-FEED] [RELACIONADOS] FEV 2020",
+      "anuncio": "AD01 - Conjunto de Cozinha - JOGOS AMERICANOS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 01 chamando",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 04 chamando",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 03 chamando",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 02 chamando",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 03 chamando[video03]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 07 chamando [Video07]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 11 chamando [Video06]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 13 chamando [Video12]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 05 chamando[video11]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 08 chamando [Video10]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 12 chamando [Video08]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 06 chamando [Video09]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 09 chamando grupovip [Video13]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582939384650",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582939384653",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PESQUISA] [LUCRANDO COM PANOS DE PRATO] [FRIO] Chamando",
+      "anuncio": "anuncio 582939384656",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ANUNCIO bastidores gravacoes YT",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 13 RMKT 15seg GRUPO VIP",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 13 [anucnio2] RMKT 15seg GRUPO VIP",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "anuncio YT pulou anuncios02",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "anuncio YT pulou anuncios01",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 01 chamando[video01]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
+      "anuncio": "ads 02 chamando[video02]",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[YT][RECORDACAO]AOVIVO-AULA1",
+      "anuncio": "02ESTOU AOVIVO AULA1",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[YT][RECORDACAO]AOVIVO-AULA1",
+      "anuncio": "ESTOU AOVIVO AULA1",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[SEARCH][VENDA] ppc2.0",
+      "anuncio": "anuncio 585939578083",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[SEARCH][VENDA] ppc2.0",
+      "anuncio": "anuncio 586897601500",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Loja da Gabi - Search",
+      "anuncio": "anuncio 587521930209",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Loja da Gabi - Search",
+      "anuncio": "anuncio 587521930212",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Loja da Gabi - Search",
+      "anuncio": "anuncio 587521930215",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Loja da Gabi - Search",
+      "anuncio": "anuncio 587542073976",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Loja da Gabi - Search",
+      "anuncio": "anuncio 587542230165",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Loja da Gabi - Search",
+      "anuncio": "anuncio 587573523535",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Loja da Gabi - Search",
+      "anuncio": "anuncio 587659990703",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "01-Anúncios do Google Shopping (Brasil)",
+      "anuncio": "anuncio 590045042876",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Loja da Gabi - Search",
+      "anuncio": "anuncio 591146499259",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO RN",
+      "anuncio": "Video RN",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO BAHIA",
+      "anuncio": "Video Bahia",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO PARAIBA",
+      "anuncio": "Video PARAIBA",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO ALAGOAS",
+      "anuncio": "Video ALAGOAS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO CEARA",
+      "anuncio": "Video CEARA",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO PERNAMBUCO",
+      "anuncio": "Video PERNAMBUCO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "Vídeo Não pulável – 2022-05-23",
+      "anuncio": "video chama zap 1",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO SERGIPE",
+      "anuncio": "Video FRETE CARO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Loja da Gabi - Search",
+      "anuncio": "anuncio 600542177175",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "rearketing-LOJA VENDAS",
+      "anuncio": "Anúncio #1",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO SERGIPE",
+      "anuncio": "Video SERGIPE",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO SERGIPE",
+      "anuncio": "Video DETALHES TECIDOS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO PERNAMBUCO",
+      "anuncio": "Video FRETE CARO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO PERNAMBUCO",
+      "anuncio": "Video DETALHES TECIDOS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO CEARA",
+      "anuncio": "Video FRETE CARO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO CEARA",
+      "anuncio": "Video DETALHES TECIDOS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO BAHIA",
+      "anuncio": "Video FRETE CARO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO BAHIA",
+      "anuncio": "Video DETALHES TECIDOS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO RN",
+      "anuncio": "Video FRETE CARO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO RN",
+      "anuncio": "Video DETALHES TECIDOS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO ALAGOAS",
+      "anuncio": "Video FRETE CARO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO ALAGOAS",
+      "anuncio": "Video DETALHES TECIDOS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO PARAIBA",
+      "anuncio": "Video FRETE CARO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO PARAIBA",
+      "anuncio": "Video DETALHES TECIDOS",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "rearketing-LOJA VENDAS",
+      "anuncio": "Anúncio #2",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[YT] lembrete - BUMPER - entrou no grupo",
+      "anuncio": "01 BUMPER 14seg-(semana batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "FRIO-[YOUTUBE][SEMANA BATEMAO] TVFA - FRIO GRUPO-VIp",
+      "anuncio": "05 TVFA-(semana batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "FRIO-[YOUTUBE][SEMANA BATEMAO] TVFA - FRIO GRUPO-VIp",
+      "anuncio": "01 TVFA-(semana batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "FRIO-[YOUTUBE][SEMANA BATEMAO] TVFA - FRIO GRUPO-VIp",
+      "anuncio": "04 TVFA-(semana batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "FRIO-[YOUTUBE][SEMANA BATEMAO] TVFA - FRIO GRUPO-VIp",
+      "anuncio": "03 TVFA-(semana batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "FRIO-[YOUTUBE][SEMANA BATEMAO] TVFA - FRIO GRUPO-VIp",
+      "anuncio": "02 TVFA-(semana batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[YT] bumper 5 e 15seg - Cadatro Grupo VIP",
+      "anuncio": "02 BUMPER 5seg (semana batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[YT] bumper 5 e 15seg - Cadatro Grupo VIP",
+      "anuncio": "01 BUMPER 14seg-(semana batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[YT] bumper 5 e 15seg - Cadatro Grupo VIP",
+      "anuncio": "04 BUMPER 5 seg. (Semana do batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[nao pulavel] 15SEG - SEMANA BATEMAO",
+      "anuncio": "01 BUMPER 14seg-(semana batemao)",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[nao pulavel] 15SEG - SEMANA BATEMAO",
+      "anuncio": "03 BUMPER 15seg (lista de materiais) semana do bate mao",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "IN-STEAM> Live Lista de materiais",
+      "anuncio": "LISTA DE MATERIAIS - Semana do Bate Mão",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "Vídeo Não pulável – 2022-07-04",
+      "anuncio": "Anúncio #1",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "07 300X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "09 600X314 - Copia.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "03 - 250X250.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "04 300X50.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "06 336X280.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "05 728X90.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "08 160X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "anuncio 609469340760",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "09 600X314.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK",
+      "anuncio": "anuncio 609605461676",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "03 - 250X250.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "09 600X314 - Copia.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "04 300X50.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "05 728X90.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "06 336X280.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "08 160X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "anuncio 609618109900",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "anuncio 609618110044",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "09 600X314.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "07 300X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "anuncio 609618110053",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] inscrições abertas PPC OK publico lives",
+      "anuncio": "anuncio 609891982764",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "video-conv-ppc",
+      "anuncio": "tva01",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "video-conv-ppc",
+      "anuncio": "tva03",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "video-conv-ppc",
+      "anuncio": "tva04",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "video-conv-ppc",
+      "anuncio": "tva05",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "video-conv-ppc",
+      "anuncio": "tva02",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Curso Pano de Prato - Search",
+      "anuncio": "anuncio 613735414529",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Curso Pano de Prato - Search",
+      "anuncio": "anuncio 613735529720",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO RMKT PERPETUO - 1",
+      "anuncio": "03 ESTÁ TUDO BEM YT",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO RMKT PERPETUO - 1",
+      "anuncio": "02 GARANTIA YT",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO RMKT PERPETUO - 1",
+      "anuncio": "01 FINALIZE YT",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "Vídeo Sequência – 2022-09-13",
+      "anuncio": "04 LOCUÇÃO 1",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "Vídeo Sequência – 2022-09-13",
+      "anuncio": "05 LOCUÇÃO+4 DEPOIMENTOS YT.mp4",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "Vídeo Sequência – 2022-09-13",
+      "anuncio": "Vídeo Sequência – 2022-09-13 #3",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "Vídeo Sequência – 2022-09-13",
+      "anuncio": "12 PROCURANDO+FOTO_LOC YT.mp4",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 5 160X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "05 300X50.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 1 300X50.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 5 336X280.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "anuncio 621934383258",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 5 250X250.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 5 728X90.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 1 160X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 1 336X280.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "06 728X90.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "07 336X280.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 1 250X250.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 1 300X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 1 728X90.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "08 300X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 5 300X50.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "Criativo 5 300X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "04 250X250.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "anuncio 621989391028",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "anuncio 622007181052",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[CAMPANHA GABI] DISPLAY  VENDAS",
+      "anuncio": "anuncio 622008705337",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "TVFA - GRUPO VIP",
+      "anuncio": "02 15 DIAS É O TEMPO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "TVFA - GRUPO VIP",
+      "anuncio": "01 CONVITE GERAL",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "3 DIAS - AULAO  - DISPLAY",
+      "anuncio": "anuncio 626080268319",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "3 DIAS - AULAO  - DISPLAY",
+      "anuncio": "03 600X314.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "3 DIAS - AULAO  - DISPLAY",
+      "anuncio": "03 300X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "3 DIAS - AULAO  - DISPLAY",
+      "anuncio": "03 336X280.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "3 DIAS - AULAO  - DISPLAY",
+      "anuncio": "03 500X500.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "3 DIAS - AULAO  - DISPLAY",
+      "anuncio": "03 300X50.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "3 DIAS - AULAO  - DISPLAY",
+      "anuncio": "03 728X90.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "3 DIAS - AULAO  - DISPLAY",
+      "anuncio": "03 250X250.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "AOVIVO BUMPER -",
+      "anuncio": "AO VIVO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "hoje BUMPER -",
+      "anuncio": "é hoje 01",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO-VENDAS - termine inscrição",
+      "anuncio": "id005-EU NÃO TE VI",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO-VENDAS - Inscrições AB",
+      "anuncio": "INSCRIÇÕES ABERTAS_T15",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO-VENDAS - Inscrições AB",
+      "anuncio": "id003-R$ 700,00 DE DESCONTO PPC 2.0",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO-VENDAS - Inscrições AB",
+      "anuncio": "id002-INSCRIÇÕES ABERTAS PPC 2.0",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "600X314.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "300X50.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "336X280.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "250X250.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "728X90.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "300X600.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "500X500.jpg",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "anuncio 626757694255",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "anuncio 626757694273",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "anuncio 626757694279",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[DISPLAY] conv-FINALIZE",
+      "anuncio": "anuncio 626757694291",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "VIDEO-VENDAS - termine inscrição",
+      "anuncio": "id004-TERMINE A SUA INSCRIÇÃO",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[SEARCH][VENDA] ppc2.0",
+      "anuncio": "anuncio 627029684128",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[Google] Curso Pano de Prato - Search",
+      "anuncio": "anuncio 627207846151",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PP][VENDA]PUBLICO VIEW ANA MARIA",
+      "anuncio": "Ad02",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "[PP][VENDA]PUBLICO VIEW ANA MARIA",
+      "anuncio": "Ad01",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "Vídeo Conversões – 2023-04-04",
+      "anuncio": "Anúncio #1",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "display-jornada",
+      "anuncio": "anuncio 653953505409",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "display-jornada #2",
+      "anuncio": "anuncio 654157090200",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
+    },
+    {
+      "campanha": "Pesquisa | Curso Panos de Prato | Vendas",
+      "anuncio": "anuncio 828109839824",
+      "gasto": 0,
+      "conversoes": 0,
+      "cpa": null
     }
   ]
 }
