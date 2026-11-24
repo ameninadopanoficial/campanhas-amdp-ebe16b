@@ -1,5 +1,12 @@
 {
-  "atualizado": "2026-11-24 15:26",
+  "atualizado": "2026-11-24 15:45",
   "periodo": "ultimos_7_dias",
-  "campanhas": []
+  "campanhas": [
+    {
+      "campanha": "Geração de demanda – 2026-10-08",
+      "gasto": 295.77,
+      "conversoes": 1.99,
+      "cpa": 148.63
+    }
+  ]
 }
