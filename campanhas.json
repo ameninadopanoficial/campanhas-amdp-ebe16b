@@ -1,30 +1,30 @@
 {
-  "atualizado": "2026-11-24 23:00",
+  "atualizado": "2026-11-25 00:00",
   "periodo": "ultimos_7_dias",
   "campanhas": [
     {
       "campanha": "FATIA VIRAIS",
-      "gasto": 416.35,
-      "vendas": 12,
-      "cpa": 34.7
+      "gasto": 434.52,
+      "vendas": 11,
+      "cpa": 39.5
     },
     {
       "campanha": "REMARKETING LIVRO",
-      "gasto": 207.66,
-      "vendas": 8,
-      "cpa": 25.96
+      "gasto": 218.75,
+      "vendas": 9,
+      "cpa": 24.31
     },
     {
       "campanha": "10 FATIAS | NOVO | 09",
-      "gasto": 206.43,
-      "vendas": 0,
-      "cpa": null
+      "gasto": 187.57,
+      "vendas": 1,
+      "cpa": 187.57
     },
     {
       "campanha": "FATIA ANUNCIO CURTO ROSA",
-      "gasto": 173.68,
-      "vendas": 0,
-      "cpa": null
+      "gasto": 161.56,
+      "vendas": 1,
+      "cpa": 161.56
     }
   ]
 }
