@@ -1,28 +1,28 @@
 {
-  "atualizado": "2026-11-27 00:03",
+  "atualizado": "2026-11-27 01:03",
   "periodo": "ultimos_7_dias",
   "campanhas": [
     {
       "campanha": "Geração de demanda – 2026-10-08",
-      "gasto": 288.49,
+      "gasto": 289.52,
       "conversoes": 2.99,
-      "cpa": 96.48
+      "cpa": 96.83
     }
   ],
   "anuncios": [
     {
       "campanha": "Geração de demanda – 2026-10-08",
       "anuncio": "Anúncio 1",
-      "gasto": 160.34,
+      "gasto": 160.6,
       "conversoes": 1.99,
-      "cpa": 80.57
+      "cpa": 80.7
     },
     {
       "campanha": "Geração de demanda – 2026-10-08",
       "anuncio": "ads-enrrugado-embutido-shorts",
-      "gasto": 79.37,
+      "gasto": 80.13,
       "conversoes": 1,
-      "cpa": 79.37
+      "cpa": 80.13
     },
     {
       "campanha": "[CONVERSAO][YOUTUBE][TRUEVIEWF/ACTION][FATURANDO PP] Evento convite",
