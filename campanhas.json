@@ -1,16 +1,16 @@
 {
-  "atualizado": "2026-11-28 00:00",
+  "atualizado": "2026-11-28 01:00",
   "periodo": "ultimos_7_dias",
   "campanhas": [
     {
       "campanha": "FATIA VIRAIS",
-      "gasto": 503.35,
+      "gasto": 503.52,
       "vendas": 9,
-      "cpa": 55.93
+      "cpa": 55.95
     },
     {
       "campanha": "REMARKETING LIVRO",
-      "gasto": 298.81,
+      "gasto": 298.83,
       "vendas": 7,
       "cpa": 42.69
     },
